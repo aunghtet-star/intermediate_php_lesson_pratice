@@ -1,3 +1,3 @@
 <?php
-include_once "Chaper 2 /php_9_setter_getter.php";
+include_once "Chaper 2 /php_23_interfaces.php";
 ?>
