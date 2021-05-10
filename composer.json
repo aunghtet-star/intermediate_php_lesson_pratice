@@ -1,0 +1,24 @@
+{
+  "name": "vendor_name/inter_php",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "aunghtet",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App",
+      "Middleware\\": "Middleware",
+      "Autoload\\": "Autoload",
+      "Controller\\": "Controller",
+      "Newshape\\": "Newshape",
+      "Interface_polymorphison\\": "Interface_polymorphison"
+    }
+  }
+}
